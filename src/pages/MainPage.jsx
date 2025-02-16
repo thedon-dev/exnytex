@@ -16,7 +16,7 @@ const MainPage = () => {
 
   const heroData = [
     {
-      heading: "crptocurrency",
+      heading: "cryptocurrency",
       desc: "Be calm about your cryptocurrency asset. The best way to receive, send and trade cryptocurrency.",
       img: "",
     },
